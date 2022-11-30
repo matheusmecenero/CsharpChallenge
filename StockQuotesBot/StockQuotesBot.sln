@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockQuotesBot.Api", "StockQuotesBot\StockQuotesBot.Api.csproj", "{B513B776-9C39-4CA7-A5F9-55A807430FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockQuotesBot.Service", "StockQuotesBot.Service\StockQuotesBot.Service.csproj", "{C32DE873-8BA9-41F1-A2D3-FDCFF084C34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B513B776-9C39-4CA7-A5F9-55A807430FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B513B776-9C39-4CA7-A5F9-55A807430FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B513B776-9C39-4CA7-A5F9-55A807430FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B513B776-9C39-4CA7-A5F9-55A807430FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32DE873-8BA9-41F1-A2D3-FDCFF084C34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32DE873-8BA9-41F1-A2D3-FDCFF084C34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32DE873-8BA9-41F1-A2D3-FDCFF084C34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32DE873-8BA9-41F1-A2D3-FDCFF084C34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF9EFDF-84B3-4887-A234-FE35EBC50D5E}
+	EndGlobalSection
+EndGlobal

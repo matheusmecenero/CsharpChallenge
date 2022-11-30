@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2CsFoPdUA2QFN/G+z/JYiSjJGfP2YvnncYm12pN5k+E=",
+  "Source": "StockQuotesBot.Api",
+  "BasePath": "_content/StockQuotesBot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

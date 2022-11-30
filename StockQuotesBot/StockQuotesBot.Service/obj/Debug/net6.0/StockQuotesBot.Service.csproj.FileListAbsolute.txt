@@ -1,0 +1,12 @@
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\bin\Debug\net6.0\StockQuotesBot.Service.deps.json
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\bin\Debug\net6.0\StockQuotesBot.Service.dll
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\bin\Debug\net6.0\StockQuotesBot.Service.pdb
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.csproj.AssemblyReference.cache
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.AssemblyInfoInputs.cache
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.AssemblyInfo.cs
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.dll
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\refint\StockQuotesBot.Service.dll
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\StockQuotesBot.Service.pdb
+C:\Users\Matheus Mecenero\source\repos\StockQuotesBot\StockQuotesBot.Service\obj\Debug\net6.0\ref\StockQuotesBot.Service.dll

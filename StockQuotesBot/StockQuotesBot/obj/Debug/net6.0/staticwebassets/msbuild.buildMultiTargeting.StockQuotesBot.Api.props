@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StockQuotesBot.Api.props" />
+</Project>
